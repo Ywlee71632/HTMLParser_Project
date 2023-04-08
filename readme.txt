@@ -1,0 +1,4 @@
+Name: Yewon Lee
+Name of the Assignment: A4_Assignment_HTML_Parser
+Attribution for Resources: Lab4 from CS205, Lecture notes and slides from Week 7 of CS205, and https://www.w3schools.com/java/ref_string_charat.asp
+Challenges: I always face with challenges of finding where to start since I often feel overwhemled by the codes that I do not understand and feelings of haste. However, this time I took a deep breath first and began from understanding the whole structure of the code rather than rushing into building the methods. I started from drawing a diagram which represents the way I planned to store the tags and compare the pairs. This greatly helped me to find my pace back and accomplish building the method without having a feelings of getting lost.  
